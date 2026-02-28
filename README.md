@@ -1,6 +1,6 @@
 # 🔥 Kwai Video Downloader Without Watermark – Download Kwai Videos Easily with Kwibo
 
-[![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=for-the-badge\&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark)
+[![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=for-the-badge\&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark&hl=en_US)
 [![Stars](https://img.shields.io/github/stars/krmichael/kwai-video-downloader?style=for-the-badge)](https://github.com/krmichael/kwai-video-downloader)
 
 Looking for a fast and reliable **kwai video downloader without watermark**?
@@ -34,7 +34,7 @@ If your goal is a **kwai video downloader without watermark** that actually work
 That’s it! Your Kwai video will be saved to your gallery in **high quality**, with **no watermark at all**.
 
 👉 **Download now:**
-📥 **[Get Kwibo on the Play Store](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark)**
+📥 **[Get Kwibo on the Play Store](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark&hl=en_US)**
 
 ---
 
@@ -76,7 +76,7 @@ If you want a **safe, fast, and free kwai video downloader without watermark**, 
 
 Install Kwibo today and start downloading Kwai videos without watermark in seconds:
 
-[![Download Kwibo](https://img.shields.io/badge/Kwibo-Free%20Download-blue?style=for-the-badge\&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark)
+[![Download Kwibo](https://img.shields.io/badge/Kwibo-Free%20Download-blue?style=for-the-badge\&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark&hl=en_US)
 
 ---
 
