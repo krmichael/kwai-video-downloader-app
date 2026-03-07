@@ -3,6 +3,8 @@
 [![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=for-the-badge\&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark&hl=en_US)
 [![Stars](https://img.shields.io/github/stars/krmichael/kwai-video-downloader?style=for-the-badge)](https://github.com/krmichael/kwai-video-downloader)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=krmichael.kwai-video-downloader-app)
+
 Looking for a fast and reliable **kwai video downloader without watermark**?
 **Kwibo** is the perfect app to download Kwai videos in high quality, completely clean and ready to share on any platform.
 
